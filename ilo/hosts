@@ -1,0 +1,14 @@
+# test
+
+[group1]
+esxi3
+
+[group2]
+#bla4
+#bla5
+#bla6
+
+#CHILDREN - Do not remove this line
+[tdmv]
+group1
+group2
