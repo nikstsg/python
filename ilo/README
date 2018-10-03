@@ -1,0 +1,5 @@
+
+Fetch server information from ILO interface and present it in JSON format.
+
+Server "esxi3" has the following ILO DNS entry : "esxi3-ilo"
+
